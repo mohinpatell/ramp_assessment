@@ -1,5 +1,5 @@
 # Instructions
-# Mohin Pate
+# Mohin Pae
 
 Welcome to Ramp's frontend interview challenge.
 
